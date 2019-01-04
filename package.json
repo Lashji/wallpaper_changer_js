@@ -1,0 +1,22 @@
+{
+  "name": "wallpaper_changer_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lashji/wallpaper_changer_js.git"
+  },
+  "keywords": [
+    "wallpaper"
+  ],
+  "author": "Lashji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lashji/wallpaper_changer_js/issues"
+  },
+  "homepage": "https://github.com/Lashji/wallpaper_changer_js#readme"
+}
